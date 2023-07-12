@@ -45,13 +45,13 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 
-global.sig = 'https://instagram.com/zykomd'
-global.sgh = 'https://github.com/ZykoBotz-MD'
-global.sgc = 'https://chat.whatsapp.com/EuRW5GTkIm7Got8ncaiI6X'
-global.sdc = 'https://www.discord.com'
+global.sig = 'https://instagram.com/supremo_.exe'
+global.sgh = 'https://github.com/SUPREMO-BOT'
+global.sgc = 'https://chat.whatsapp.com/Bu0GPw5H0qj6GwBpzumaq6'
+global.sdc = 'https://discord.gg/4DUFbCqZSr'
 global.snh = 'https://youtu.be/0I8MBnCuuzs'
 global.sfb = 'https://www.facebook.com/ZykoBotz'
-global.syt = 'https://youtube.com/@zykobotz'
+global.syt = 'https://youtube.com/@supremo_-sh2sd'
 
 /*============== PAYMENT ==============*/
 global.pdana = '0852-1264-9276'
@@ -63,10 +63,10 @@ global.ppulsa2 = '0831-3332-9293'
 global.psaweria = 'https://saweria.co/Zykomd'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281269842230'
-global.nomorown = '6283133329293'
+global.nomorbot = '6281617565215'
+global.nomorown = '573154498492'
 global.namebot = 'ZYKOBOTZ MD'
-global.nameown = 'ZYKO MD'
+global.nameown = 'ᴍ ʀ ⃞ s u p r e m o'
 
 /*============== Github Thanks To ==============*/
 global.namagithub = 'ZykoBotz-MD'
@@ -83,7 +83,7 @@ global.lolkey = pickRandom(["e54205a4ca2caa368cc067bb", "8e66d0934cf741bfd2182c1
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283133329293', 'ZYKO MD', true],
+  ['573154498492', 'ᴍ ʀ ⃞ s u p r e m o', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
@@ -135,9 +135,9 @@ global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ZYKOBOTZ MD ˘ฅ ꒱ ‧₊˚꒷
 global.wm3 = "⫹⫺ ZYKOBOTZ MD"
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ TIME: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By ZYKO MD`
+global.titlebot = `⫹⫺ WhatsApp Bot | By @supremo`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = "ZYKOBOTZ MD 乂 ZYKO MD"
+global.author = "ZYKOBOTZ MD 乂 ᴍ ʀ ⃞ s u p r e m o"
 
 /*Fake*/
 global.fsizedoc = SizeDoc()
@@ -3578,7 +3578,7 @@ global.hsquere = pickRandom(["⛶", "❏", "⫹⫺", "☰", "⎔", "✦", "⭔",
 
 /*============== STICKER WM ==============*/
 global.stickpack = 'ZYKOBOTZ MD'
-global.stickauth = `By ©ZYKO MD`
+global.stickauth = `By ©Supremo`
 
 global.multiplier = 69 // The higher, The harder levelup
 
